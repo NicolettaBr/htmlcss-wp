@@ -120,7 +120,7 @@ header{
 .colonna-left,
 .colonna-right{
     width: 15%;
-    height: 300px;
+    
     margin: 15px 0;
 
 }
@@ -137,7 +137,7 @@ header{
 
 .colonna-center{
     width: 68%;
-    height: 300px;
+    
     margin: 15px 1%;
 }
 
